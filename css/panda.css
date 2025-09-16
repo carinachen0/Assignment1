@@ -3,3 +3,9 @@ body {
   background-color: silver;
   text-align: center;
 }
+
+ul {
+  font-family: Courier New;
+  background-color: silver;
+  text-align: left;
+}
